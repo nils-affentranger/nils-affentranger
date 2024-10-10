@@ -1,4 +1,4 @@
-## Hi there 👋
+[![wakatime](https://wakatime.com/badge/user/c902db0e-2262-4b96-8a46-9ded97e78844.svg)](https://wakatime.com/@c902db0e-2262-4b96-8a46-9ded97e78844)
 
 <!--
 **nils-affentranger/nils-affentranger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
